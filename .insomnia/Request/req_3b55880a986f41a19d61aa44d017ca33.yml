@@ -1,0 +1,25 @@
+_id: req_3b55880a986f41a19d61aa44d017ca33
+type: Request
+parentId: wrk_8b77b4505fb34aafac441ceb5d8fc145
+modified: 1657694393809
+created: 1657510234536
+url: http://schedule-applicaiton-pdp2prod.agile-board.svc.sq01.n.jd.local/book/fingUserInfo/qxlwl
+name: queryUserByErp
+description: ""
+method: DELETE
+body: {}
+parameters:
+  - id: pair_7bbca2a228ce45dbaaa8b4a9251215b7
+    name: ""
+    value: ""
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657510234536
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
